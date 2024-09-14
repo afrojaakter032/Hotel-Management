@@ -1,7 +1,7 @@
 function AboutSection () {
     return (
         <>
-            <div className="container mx-auto mt-20">
+            <div className="container mx-auto mt-20 px-5">
                 <div className="md:flex gap-16">
                     <div className="md:w-1/2">
                         <img className="rounded-xl w-full" src="./assets/images/7-1.png" alt="chef" />

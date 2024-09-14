@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function Menu () {
     return (
         <>
@@ -23,7 +25,7 @@ function Menu () {
                             <li><a>Verification</a></li>
                             <li><a>Success Stories</a></li>
                             <li><a>Gallery</a></li>
-                            <li><a>Contact</a></li>
+                            <li><Link to= "/contact">Contact</Link></li>
                         </ul>
                     </div>
                     {/* desktop menu */}

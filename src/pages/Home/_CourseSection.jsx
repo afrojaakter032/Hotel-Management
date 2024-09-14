@@ -1,7 +1,7 @@
 function CourseSection () {
     return (
         <>
-            <div className="container mx-auto mt-16">
+            <div className="container mx-auto mt-16 px-5">
                 <div className="text-center">
                     <div className="text-red-500 text-2xl py-2">Popular Courses</div>
                     <div className="text-5xl text-yellow-600 py-2">OUR ACADEMIC PROGRAMME</div>

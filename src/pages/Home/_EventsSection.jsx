@@ -1,7 +1,7 @@
 function EventSection () {
     return (
         <>
-            <div className="container mx-auto mt-32">
+            <div className="container mx-auto mt-32 px-5">
                 <div className="text-center">
                     <div className="text-3xl text-red-500 py-3">EVENTS</div>
                     <div className="text-xl">Our recent events and upcoming events.</div>

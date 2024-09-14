@@ -1,7 +1,7 @@
 function ChooseSection () {
     return (
         <>
-            <div className="container mx-auto mt-32">
+            <div className="container mx-auto mt-32 px-5">
                 <div className="text-3xl text-center">WHY CHOOSE US</div>
                 <div className="md:flex gap-32 mt-16">
                     <div className="md:w-1/2">

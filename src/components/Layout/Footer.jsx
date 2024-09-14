@@ -2,7 +2,7 @@ function Footer () {
     return (
         <>
             <div className="bg-slate-950 mt-32">
-                <div className="container mx-auto">
+                <div className="container mx-auto px-5">
                     <div className="md:flex py-10">
                         <div className="md:w-1/2">
                             <div>

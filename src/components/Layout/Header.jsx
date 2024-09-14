@@ -4,21 +4,21 @@ function Header () {
     return (
         <>
             <header>
-                <div className="container mx-auto">
-                    <div className="header-top md:flex border-b">
-                        <div className="md:w-1/2">
+                <div className="container mx-auto px-5">
+                    <div className="header-top md:flex items-center border-b">
+                        <div className="md:w-3/12">
                             <img src="./assets/images/logo.png" alt="logo" />
                         </div>
 
-                        <div className="md:w-1/2">
-                            <div className="flex flex-wrap py-5 gap-10">
+                        <div className="md:w-9/12">
+                            <div className="flex flex-wrap py-5 gap-10 justify-end">
                                 <div className="flex gap-3">
                                     <div className="text-red-500 text-4xl pt-2">
                                         <i className="ph ph-map-pin"></i>
                                     </div>
                                     <div>
                                         <div className="font-bold">Email</div>
-                                        <div>info@hotelmanagementbd.com</div>
+                                        <div>info@example.com</div>
                                     </div>
                                 </div>
 
