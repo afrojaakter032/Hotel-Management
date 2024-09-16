@@ -25,12 +25,12 @@ function Menu () {
                             <li><a>Verification</a></li>
                             <li><a>Success Stories</a></li>
                             <li><a>Gallery</a></li>
-                            <li><Link to= "/contact">Contact</Link></li>
+                            <li><a>Contact</a></li>
                         </ul>
                     </div>
                     {/* desktop menu */}
                     <ul className="menu hidden lg:menu-horizontal  gap-5">
-                        <li><a>Home</a></li>
+                        <li><Link to="/">Home</Link></li>
                         <li>
                             <details open>
                                 <summary>About</summary>
@@ -44,7 +44,7 @@ function Menu () {
                         <li><a>Verification</a></li>
                         <li><a>Success Stories</a></li>
                         <li><a>Gallery</a></li>
-                        <li><a>Contact</a></li>
+                        <li><Link to="/contact">Contact</Link></li>
                     </ul>
                 </div>
 
@@ -57,7 +57,7 @@ function Menu () {
                             <input
                                 type="text"
                                 placeholder="Search..."
-                                class="w-80 p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500"
+                                className="w-80 p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500"
                             />
                         </div>
                     </div>

@@ -8,9 +8,9 @@ function Footer () {
                             <div>
                                 <div className="text-white text-2xl">ABOUT OUR COMPANY</div>
                                 <div className="flex py-4 gap-2">
-                                    <a className="text-3xl btn btn-circle text-red-500 flex justify-center align-middle" href="#"><i class="ph ph-facebook-logo"></i></a>
-                                    <a className="text-3xl btn btn-circle text-red-500 flex justify-center align-middle" href="#"><i class="ph ph-instagram-logo"></i></a>
-                                    <a className="text-3xl btn btn-circle text-red-500 flex justify-center align-middle" href="#"><i class="ph ph-linkedin-logo"></i></a>
+                                    <a className="text-3xl btn btn-circle text-red-500 flex justify-center align-middle" href="#"><i className="ph ph-facebook-logo"></i></a>
+                                    <a className="text-3xl btn btn-circle text-red-500 flex justify-center align-middle" href="#"><i className="ph ph-instagram-logo"></i></a>
+                                    <a className="text-3xl btn btn-circle text-red-500 flex justify-center align-middle" href="#"><i className="ph ph-linkedin-logo"></i></a>
                                 </div>
                             </div>
                         </div>

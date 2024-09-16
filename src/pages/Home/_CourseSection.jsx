@@ -19,10 +19,10 @@ function CourseSection () {
                                 <h2 className="card-title text-red-500">FOOD & BEVERAGE SERVICE</h2>
                                 <div className="flex gap-4 justify-center align-middle mt-1">
                                     <div>
-                                        <div className="text-xl"><i class="ph ph-clock"></i> 04/06 MONTHS</div>
+                                        <div className="text-xl"><i className="ph ph-clock"></i> 04/06 MONTHS</div>
                                     </div>
                                     <div>
-                                        <div className="text-xl"><i class="ph ph-graduation-cap"></i> Certification</div>
+                                        <div className="text-xl"><i className="ph ph-graduation-cap"></i> Certification</div>
                                     </div>
                                 </div>
                                 <div className="card-actions justify-center mt-2">
@@ -43,10 +43,10 @@ function CourseSection () {
                                 <h2 className="card-title text-red-500">FOOD & BEVERAGE PRODUCTION (COOKING)</h2>
                                 <div className="flex gap-4 justify-center align-middle mt-1">
                                     <div>
-                                        <div className="text-xl"><i class="ph ph-clock"></i> 04/06 MONTHS</div>
+                                        <div className="text-xl"><i className="ph ph-clock"></i> 04/06 MONTHS</div>
                                     </div>
                                     <div>
-                                        <div className="text-xl"><i class="ph ph-graduation-cap"></i> Certification</div>
+                                        <div className="text-xl"><i className="ph ph-graduation-cap"></i> Certification</div>
                                     </div>
                                 </div>
                                 <div className="card-actions justify-center mt-2">
@@ -67,10 +67,10 @@ function CourseSection () {
                                 <h2 className="card-title text-red-500">FRONT OFFICE MANAGEMENT</h2>
                                 <div className="flex gap-4 justify-center align-middle mt-1">
                                     <div>
-                                        <div className="text-xl"><i class="ph ph-clock"></i> 04/06 MONTHS</div>
+                                        <div className="text-xl"><i className="ph ph-clock"></i> 04/06 MONTHS</div>
                                     </div>
                                     <div>
-                                        <div className="text-xl"><i class="ph ph-graduation-cap"></i> Certification</div>
+                                        <div className="text-xl"><i className="ph ph-graduation-cap"></i> Certification</div>
                                     </div>
                                 </div>
                                 <div className="card-actions justify-center mt-2">

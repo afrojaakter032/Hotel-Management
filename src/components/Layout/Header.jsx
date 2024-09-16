@@ -24,7 +24,7 @@ function Header () {
 
                                 <div className="flex gap-3">
                                     <div className="text-red-500 text-4xl pt-2">
-                                        <i class="ph ph-phone"></i>
+                                        <i className="ph ph-phone"></i>
                                     </div>
                                     <div>
                                         <div className="font-bold">Call Us</div>

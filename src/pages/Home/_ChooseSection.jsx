@@ -6,7 +6,7 @@ function ChooseSection () {
                 <div className="md:flex gap-32 mt-16">
                     <div className="md:w-1/2">
                         <div>
-                            <div className="text-red-500 text-7xl py-3"><i class="ph ph-gear"></i></div>
+                            <div className="text-red-500 text-7xl py-3"><i className="ph ph-gear"></i></div>
                             <div className="text-red-500 text-2xl py-3">30+ YEARS OF EXPERIENCE</div>
                             <div className="text-2xl">
                                 1. Credit transfer facilities available <br />
@@ -22,7 +22,7 @@ function ChooseSection () {
 
                     <div className="md:w-1/2">
                         <div>
-                            <div className="text-red-500 text-7xl py-3"><i class="ph ph-airplane-tilt"></i></div>
+                            <div className="text-red-500 text-7xl py-3"><i className="ph ph-airplane-tilt"></i></div>
                             <div className="text-red-500 text-2xl py-3">30+ YEARS OF EXPERIENCE</div>
                             <div className="text-2xl">
                                 1. Credit transfer facilities available <br />
