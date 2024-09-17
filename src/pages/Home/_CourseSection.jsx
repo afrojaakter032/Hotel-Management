@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function CourseSection () {
     return (
         <>
@@ -26,7 +28,7 @@ function CourseSection () {
                                     </div>
                                 </div>
                                 <div className="card-actions justify-center mt-2">
-                                    <button className="btn btn-error text-white text-xl">Course Details</button>
+                                    <Link to="/course" className="btn btn-error text-white text-xl">Course Details</Link>
                                 </div>
                             </div>
                         </div>
@@ -50,7 +52,7 @@ function CourseSection () {
                                     </div>
                                 </div>
                                 <div className="card-actions justify-center mt-2">
-                                    <button className="btn btn-error text-white text-xl">Course Details</button>
+                                    <Link to="/course" className="btn btn-error text-white text-xl">Course Details</Link>
                                 </div>
                             </div>
                         </div>
@@ -74,7 +76,7 @@ function CourseSection () {
                                     </div>
                                 </div>
                                 <div className="card-actions justify-center mt-2">
-                                    <button className="btn btn-error text-white text-xl">Course Details</button>
+                                    <Link to="/course" className="btn btn-error text-white text-xl">Course Details</Link>
                                 </div>
                             </div>
                         </div>
