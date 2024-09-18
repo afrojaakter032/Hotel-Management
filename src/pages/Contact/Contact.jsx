@@ -51,8 +51,8 @@ function Contact () {
                                 <div className="text-white text-4xl">analysts</div>
                             </div>
 
-                            <div className="flex px-20 gap-4 w-full">
-                                <label className="input input-bordered flex items-center gap-2 w-full">
+                            <div className="md:flex px-20 gap-4 w-full">
+                                <label className="input input-bordered flex items-center gap-2 w-full mb-3">
                                     <input type="text" className="grow" placeholder="Your Name" />
                                 </label>
                                 <label className="input input-bordered flex items-center gap-2 w-full">
@@ -60,8 +60,8 @@ function Contact () {
                                 </label>
                             </div>
 
-                            <div className="flex px-20 gap-4 pt-6 ">
-                                <label className="input input-bordered flex items-center gap-2 w-full">
+                            <div className="md:flex px-20 gap-4 pt-6">
+                                <label className="input input-bordered flex items-center gap-2 w-full mb-3">
                                     <input type="number" className="grow" placeholder="Your Phone" />
                                 </label>
                                 <label className="input input-bordered flex items-center gap-2 w-full">

@@ -7,7 +7,7 @@ function Course () {
                 <div className="bg-slate-500 min-h-[250px] flex justify-center items-center">
                     <div className="text-4xl text-white">Advanced Diploma in Culinary, Baking & Pastry Arts – 2 Years</div>
                 </div>
-                <div className="container mx-auto mt-20">
+                <div className="container mx-auto mt-20 px-5">
                     <div className="text-black text-center text-2xl">
                         Culinary arts, in which culinary means “related to cooking”, are the cuisine arts of food preparation,
                         cooking, and presentation of food, usually in the form of meals. People working in this field –
